@@ -1,0 +1,17 @@
+h1{
+    color: rgb(5, 233, 81);
+    font-family: 'Cormorant Garamond', serif;
+    font-family: 'Edu NSW ACT Foundation', cursive;
+}
+body{
+    text-align: center;
+    background-image: linear-gradient(to right,#f76f00 0%,#1479d9 100%);
+    
+}
+p{ font-size: 15px;
+    color: lawngreen;
+}
+button{ border-radius: 10px;
+    background-color: rgb(70, 236, 170);
+    font-size: 40px;
+}
